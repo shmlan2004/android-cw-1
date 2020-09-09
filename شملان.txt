@@ -1,0 +1,15 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        
+        int x = 7 ;
+        int l = 7 ;
+        
+        System.out.println(l+x) ;
+        System.out.println(l*x) ;
+        System.out.println(l=x) ;
+     
+        System.out.println("شملان أسامة بابطاط") ;
+    //لا تنسون البونس
+     }
+}
